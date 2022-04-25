@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+   margin: 50px auto 0 auto;
+   font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+a {
+  color: #66BFBF;
+}
+
+hr {
+  background-color: white;
+ border-style: none;
+ border-top-style: dotted;
+ border-color: black;
+ border-width: 5px;
+ width: 5%;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+
+}
+
+.bottom-container {
+  height: 100px;
+margin-top: 50px;
+margin-bottom: 0;
+padding-top: 50px;
+background-color: #66BFBF;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+ .skill-row{
+   width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+ }
+
+ .first-skills {
+   width: 25%;
+
+   margin-right: 30px;
+ }
+
+ .second-skill {
+   padding-left: 500px;
+   width: 25%;
+
+ }
+
+ .secondskill {
+   padding-left: 500px;
+ }
+
+ .parag {
+   padding-left: 500px;
+ }
+
+ .parag2 {
+   padding-right: 500px;
+ }
+.only {
+  background-color: #EAF6F6;
+ border-style: none;
+ border-top-style: dotted;
+ border-color: black;
+ border-width: 5px;
+ width: 5%;
+}
+
+ .btn {
+   background: #11cdd4;
+   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+   background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+   background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+   background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+   background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+   -webkit-border-radius: 60;
+   -moz-border-radius: 60;
+   border-radius: 60px;
+   font-family: Arial;
+   color: #ffffff;
+   font-size: 20px;
+   padding: 10px 20px 10px 20px;
+   text-decoration: none;
+ }
+
+ .footer-link {
+   color: #11999E;
+   padding-right: 50px;
+ }
+ .last-paragraph {
+   color: #EAF6F6;
+ }
